@@ -33,4 +33,13 @@ heatmap.3(t(tumor.mat),dendrogram="r", distfun = function(x) parallelDist::parDi
 
 
 
-## EQUATION ii
+
+purity = 
+ploidy = 
+Copynumber = 
+
+
+## EQUATION II
+
+VAF = 
+M = VAF*Copynumber
