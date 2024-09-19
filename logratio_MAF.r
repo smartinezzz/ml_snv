@@ -1,3 +1,5 @@
+## EQUATION i
+
 library(copykat)
 library(Seurat)
 
@@ -28,3 +30,7 @@ heatmap.3(t(tumor.mat),dendrogram="r", distfun = function(x) parallelDist::parDi
             symm=F,symkey=F,symbreaks=T,cex=1, cex.main=4, margins=c(10,10))
 
   legend("topright", c("c1","c2"), pch=15,col=RColorBrewer::brewer.pal(n = 8, name = "Dark2")[3:4], cex=0.9, bty='n')
+
+
+
+## EQUATION ii
