@@ -1,6 +1,6 @@
 ## Siera Martinez and Anika Florin
 ## 2024/09/19
-## Calculating equations 1 and 2 from the paper below using scRNA-seq data
+## Calculating equations 1 and 2 from the paper below using longreads scRNA-seq data
 ## https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005965#sec008 
 
 ## EQUATION i
